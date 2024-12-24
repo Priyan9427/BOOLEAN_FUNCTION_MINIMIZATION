@@ -47,19 +47,54 @@ endmodule
 
 **RTL realization**
 
+
+
+
 ![f1](https://github.com/user-attachments/assets/5655f823-98ae-4540-abee-874651eac3da)
+
+
+
+
+
+
 
 ![f2](https://github.com/user-attachments/assets/e9177c25-859e-4fe6-a27d-327ed4a2742e)
 
 
+
+
+
+
 **Timing Diagram**
 
+
+
+
+
 ![f1 (2)](https://github.com/user-attachments/assets/addcc60a-bb4d-427d-8c19-3d6131776460)
+
+
+
+
+
 
 ![f2 (2)](https://github.com/user-attachments/assets/d60690e2-a159-4c73-98c9-045d505f7da3)
 
 
+
+
+
+
 **Result:**
 
+
+
+
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+
+
+
+
+
 
