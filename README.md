@@ -29,6 +29,20 @@ Hardware – PCs, Cyclone II , USB flasher
 
 5.	For different input combinations generate the timing diagram.
 
+**truth table**
+f1
+
+
+![f1](https://github.com/user-attachments/assets/b0c50e8f-a1ed-4576-add2-989d4d9bc52a)
+
+
+f2
+
+
+![f2](https://github.com/user-attachments/assets/d5f57fdf-f367-427f-b3ce-d775130c4c59)
+
+
+
 
 **Program:**
 ```
@@ -57,13 +71,13 @@ endmodule
 
 **RTL realization**
 
-
+f1
 
 
 ![f1](https://github.com/user-attachments/assets/5655f823-98ae-4540-abee-874651eac3da)
 
 
-
+f2
 
 
 
@@ -78,14 +92,14 @@ endmodule
 **Timing Diagram**
 
 
-
+f1
 
 
 ![f1 (2)](https://github.com/user-attachments/assets/addcc60a-bb4d-427d-8c19-3d6131776460)
 
 
 
-
+f2
 
 
 ![f2 (2)](https://github.com/user-attachments/assets/d60690e2-a159-4c73-98c9-045d505f7da3)
